@@ -1,0 +1,123 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Utility", "Utility\Utility.csproj", "{BFBCC3D8-88C5-4B61-A342-05541DEFF510}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "APIUtility", "APIUtility\APIUtility.csproj", "{C32F0F6A-CCF8-4813-B6E2-82E86CE44455}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{0D0A115F-73BC-4F31-9641-C92C2B450C84}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AIAssistanceAPI", "AIAssistanceAPI\AIAssistanceAPI.csproj", "{CF079CF4-4A62-42AC-93FF-196F5E9E4D6F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DBUtility", "DBUtility\DBUtility.csproj", "{9BA8024E-095D-408D-9774-0B23DEDE6A7E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shared.DBManager", "Shared.DBManager\Shared.DBManager.csproj", "{A6DD1B3C-4AA3-40C3-9DAD-B0B3186421BD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpenAI.DBManager", "OpenAI.DBManager\OpenAI.DBManager.csproj", "{DC8009E9-FE5D-49F1-AE2B-330A93722984}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpenAI.Models", "OpenAI.Models\OpenAI.Models.csproj", "{BAF8AF89-A945-4A9A-AC3C-9927E9F4BCB0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFBCC3D8-88C5-4B61-A342-05541DEFF510}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFBCC3D8-88C5-4B61-A342-05541DEFF510}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFBCC3D8-88C5-4B61-A342-05541DEFF510}.Debug|x86.ActiveCfg = Debug|x86
+		{BFBCC3D8-88C5-4B61-A342-05541DEFF510}.Debug|x86.Build.0 = Debug|x86
+		{BFBCC3D8-88C5-4B61-A342-05541DEFF510}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFBCC3D8-88C5-4B61-A342-05541DEFF510}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFBCC3D8-88C5-4B61-A342-05541DEFF510}.Release|x86.ActiveCfg = Release|x86
+		{BFBCC3D8-88C5-4B61-A342-05541DEFF510}.Release|x86.Build.0 = Release|x86
+		{C32F0F6A-CCF8-4813-B6E2-82E86CE44455}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C32F0F6A-CCF8-4813-B6E2-82E86CE44455}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C32F0F6A-CCF8-4813-B6E2-82E86CE44455}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{C32F0F6A-CCF8-4813-B6E2-82E86CE44455}.Debug|x86.Build.0 = Debug|Any CPU
+		{C32F0F6A-CCF8-4813-B6E2-82E86CE44455}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C32F0F6A-CCF8-4813-B6E2-82E86CE44455}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C32F0F6A-CCF8-4813-B6E2-82E86CE44455}.Release|x86.ActiveCfg = Release|Any CPU
+		{C32F0F6A-CCF8-4813-B6E2-82E86CE44455}.Release|x86.Build.0 = Release|Any CPU
+		{CF079CF4-4A62-42AC-93FF-196F5E9E4D6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF079CF4-4A62-42AC-93FF-196F5E9E4D6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF079CF4-4A62-42AC-93FF-196F5E9E4D6F}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{CF079CF4-4A62-42AC-93FF-196F5E9E4D6F}.Debug|x86.Build.0 = Debug|Any CPU
+		{CF079CF4-4A62-42AC-93FF-196F5E9E4D6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF079CF4-4A62-42AC-93FF-196F5E9E4D6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF079CF4-4A62-42AC-93FF-196F5E9E4D6F}.Release|x86.ActiveCfg = Release|Any CPU
+		{CF079CF4-4A62-42AC-93FF-196F5E9E4D6F}.Release|x86.Build.0 = Release|Any CPU
+		{9BA8024E-095D-408D-9774-0B23DEDE6A7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BA8024E-095D-408D-9774-0B23DEDE6A7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BA8024E-095D-408D-9774-0B23DEDE6A7E}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{9BA8024E-095D-408D-9774-0B23DEDE6A7E}.Debug|x86.Build.0 = Debug|Any CPU
+		{9BA8024E-095D-408D-9774-0B23DEDE6A7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BA8024E-095D-408D-9774-0B23DEDE6A7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BA8024E-095D-408D-9774-0B23DEDE6A7E}.Release|x86.ActiveCfg = Release|Any CPU
+		{9BA8024E-095D-408D-9774-0B23DEDE6A7E}.Release|x86.Build.0 = Release|Any CPU
+		{A6DD1B3C-4AA3-40C3-9DAD-B0B3186421BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6DD1B3C-4AA3-40C3-9DAD-B0B3186421BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6DD1B3C-4AA3-40C3-9DAD-B0B3186421BD}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{A6DD1B3C-4AA3-40C3-9DAD-B0B3186421BD}.Debug|x86.Build.0 = Debug|Any CPU
+		{A6DD1B3C-4AA3-40C3-9DAD-B0B3186421BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6DD1B3C-4AA3-40C3-9DAD-B0B3186421BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6DD1B3C-4AA3-40C3-9DAD-B0B3186421BD}.Release|x86.ActiveCfg = Release|Any CPU
+		{A6DD1B3C-4AA3-40C3-9DAD-B0B3186421BD}.Release|x86.Build.0 = Release|Any CPU
+		{DC8009E9-FE5D-49F1-AE2B-330A93722984}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC8009E9-FE5D-49F1-AE2B-330A93722984}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC8009E9-FE5D-49F1-AE2B-330A93722984}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{DC8009E9-FE5D-49F1-AE2B-330A93722984}.Debug|x86.Build.0 = Debug|Any CPU
+		{DC8009E9-FE5D-49F1-AE2B-330A93722984}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC8009E9-FE5D-49F1-AE2B-330A93722984}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC8009E9-FE5D-49F1-AE2B-330A93722984}.Release|x86.ActiveCfg = Release|Any CPU
+		{DC8009E9-FE5D-49F1-AE2B-330A93722984}.Release|x86.Build.0 = Release|Any CPU
+		{BAF8AF89-A945-4A9A-AC3C-9927E9F4BCB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAF8AF89-A945-4A9A-AC3C-9927E9F4BCB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAF8AF89-A945-4A9A-AC3C-9927E9F4BCB0}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{BAF8AF89-A945-4A9A-AC3C-9927E9F4BCB0}.Debug|x86.Build.0 = Debug|Any CPU
+		{BAF8AF89-A945-4A9A-AC3C-9927E9F4BCB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAF8AF89-A945-4A9A-AC3C-9927E9F4BCB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAF8AF89-A945-4A9A-AC3C-9927E9F4BCB0}.Release|x86.ActiveCfg = Release|Any CPU
+		{BAF8AF89-A945-4A9A-AC3C-9927E9F4BCB0}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0FA7F27A-FDD3-4903-A9C5-32F7664CF6D9}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 8
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://vtfsprod:8080/tfs/histeamcollections
+		SccProjectUniqueName0 = Utility\\Utility.csproj
+		SccProjectName0 = Utility
+		SccLocalPath0 = Utility
+		SccProjectUniqueName1 = APIUtility\\APIUtility.csproj
+		SccProjectName1 = APIUtility
+		SccLocalPath1 = APIUtility
+		SccProjectUniqueName2 = AIAssistanceAPI\\AIAssistanceAPI.csproj
+		SccProjectName2 = AIAssistanceAPI
+		SccLocalPath2 = AIAssistanceAPI
+		SccProjectUniqueName3 = DBUtility\\DBUtility.csproj
+		SccProjectName3 = DBUtility
+		SccLocalPath3 = DBUtility
+		SccProjectUniqueName4 = Shared.DBManager\\Shared.DBManager.csproj
+		SccProjectName4 = Shared.DBManager
+		SccLocalPath4 = Shared.DBManager
+		SccLocalPath5 = .
+		SccProjectUniqueName6 = OpenAI.DBManager\\OpenAI.DBManager.csproj
+		SccProjectName6 = OpenAI.DBManager
+		SccLocalPath6 = OpenAI.DBManager
+		SccProjectUniqueName7 = OpenAI.Models\\OpenAI.Models.csproj
+		SccProjectName7 = OpenAI.Models
+		SccLocalPath7 = OpenAI.Models
+	EndGlobalSection
+EndGlobal

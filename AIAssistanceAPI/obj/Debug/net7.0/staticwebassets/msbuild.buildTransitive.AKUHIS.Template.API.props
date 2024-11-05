@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\AKUHIS.Template.API.props" />
+</Project>

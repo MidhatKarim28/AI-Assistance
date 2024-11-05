@@ -1,0 +1,65 @@
+C:\Users\support.fs\source\Workspaces\AKUHIS.Template.API\Assemblies\Debug\net7.0\DBUtility.deps.json
+C:\Users\support.fs\source\Workspaces\AKUHIS.Template.API\Assemblies\Debug\net7.0\DBUtility.dll
+C:\Users\support.fs\source\Workspaces\AKUHIS.Template.API\Assemblies\Debug\net7.0\DBUtility.pdb
+C:\Users\support.fs\source\Workspaces\AKUHIS.Template.API\DBUtility\obj\Debug\net7.0\DBUtility.csproj.AssemblyReference.cache
+C:\Users\support.fs\source\Workspaces\AKUHIS.Template.API\DBUtility\obj\Debug\net7.0\DBUtility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\support.fs\source\Workspaces\AKUHIS.Template.API\DBUtility\obj\Debug\net7.0\DBUtility.AssemblyInfoInputs.cache
+C:\Users\support.fs\source\Workspaces\AKUHIS.Template.API\DBUtility\obj\Debug\net7.0\DBUtility.AssemblyInfo.cs
+C:\Users\support.fs\source\Workspaces\AKUHIS.Template.API\DBUtility\obj\Debug\net7.0\DBUtility.csproj.CoreCompileInputs.cache
+C:\Users\support.fs\source\Workspaces\AKUHIS.Template.API\DBUtility\obj\Debug\net7.0\DBUtility.csproj.CopyComplete
+C:\Users\support.fs\source\Workspaces\AKUHIS.Template.API\DBUtility\obj\Debug\net7.0\DBUtility.dll
+C:\Users\support.fs\source\Workspaces\AKUHIS.Template.API\DBUtility\obj\Debug\net7.0\refint\DBUtility.dll
+C:\Users\support.fs\source\Workspaces\AKUHIS.Template.API\DBUtility\obj\Debug\net7.0\DBUtility.pdb
+C:\Users\support.fs\source\Workspaces\AKUHIS.Template.API\DBUtility\obj\Debug\net7.0\ref\DBUtility.dll
+C:\Users\support.fs\source\AIAssistanceAPI\Assemblies\Debug\net7.0\DBUtility.deps.json
+C:\Users\support.fs\source\AIAssistanceAPI\Assemblies\Debug\net7.0\DBUtility.dll
+C:\Users\support.fs\source\AIAssistanceAPI\Assemblies\Debug\net7.0\DBUtility.pdb
+C:\Users\support.fs\source\AIAssistanceAPI\DBUtility\obj\Debug\net7.0\DBUtility.csproj.AssemblyReference.cache
+C:\Users\support.fs\source\AIAssistanceAPI\DBUtility\obj\Debug\net7.0\DBUtility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\support.fs\source\AIAssistanceAPI\DBUtility\obj\Debug\net7.0\DBUtility.AssemblyInfoInputs.cache
+C:\Users\support.fs\source\AIAssistanceAPI\DBUtility\obj\Debug\net7.0\DBUtility.AssemblyInfo.cs
+C:\Users\support.fs\source\AIAssistanceAPI\DBUtility\obj\Debug\net7.0\DBUtility.csproj.CoreCompileInputs.cache
+C:\Users\support.fs\source\AIAssistanceAPI\DBUtility\obj\Debug\net7.0\DBUtility.csproj.CopyComplete
+C:\Users\support.fs\source\AIAssistanceAPI\DBUtility\obj\Debug\net7.0\DBUtility.dll
+C:\Users\support.fs\source\AIAssistanceAPI\DBUtility\obj\Debug\net7.0\refint\DBUtility.dll
+C:\Users\support.fs\source\AIAssistanceAPI\DBUtility\obj\Debug\net7.0\DBUtility.pdb
+C:\Users\support.fs\source\AIAssistanceAPI\DBUtility\obj\Debug\net7.0\ref\DBUtility.dll
+C:\Users\support.auh\Source\Workspaces\AIAssistance-APII\AIAssistanceAPI\Assemblies\Debug\net7.0\DBUtility.deps.json
+C:\Users\support.auh\Source\Workspaces\AIAssistance-APII\AIAssistanceAPI\Assemblies\Debug\net7.0\DBUtility.dll
+C:\Users\support.auh\Source\Workspaces\AIAssistance-APII\AIAssistanceAPI\Assemblies\Debug\net7.0\DBUtility.pdb
+C:\Users\support.auh\Source\Workspaces\AIAssistance-APII\AIAssistanceAPI\DBUtility\obj\Debug\net7.0\DBUtility.csproj.AssemblyReference.cache
+C:\Users\support.auh\Source\Workspaces\AIAssistance-APII\AIAssistanceAPI\DBUtility\obj\Debug\net7.0\DBUtility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\support.auh\Source\Workspaces\AIAssistance-APII\AIAssistanceAPI\DBUtility\obj\Debug\net7.0\DBUtility.AssemblyInfoInputs.cache
+C:\Users\support.auh\Source\Workspaces\AIAssistance-APII\AIAssistanceAPI\DBUtility\obj\Debug\net7.0\DBUtility.AssemblyInfo.cs
+C:\Users\support.auh\Source\Workspaces\AIAssistance-APII\AIAssistanceAPI\DBUtility\obj\Debug\net7.0\DBUtility.csproj.CoreCompileInputs.cache
+C:\Users\support.auh\Source\Workspaces\AIAssistance-APII\AIAssistanceAPI\DBUtility\obj\Debug\net7.0\DBUtility.csproj.CopyComplete
+C:\Users\support.auh\Source\Workspaces\AIAssistance-APII\AIAssistanceAPI\DBUtility\obj\Debug\net7.0\DBUtility.dll
+C:\Users\support.auh\Source\Workspaces\AIAssistance-APII\AIAssistanceAPI\DBUtility\obj\Debug\net7.0\refint\DBUtility.dll
+C:\Users\support.auh\Source\Workspaces\AIAssistance-APII\AIAssistanceAPI\DBUtility\obj\Debug\net7.0\DBUtility.pdb
+C:\Users\support.auh\Source\Workspaces\AIAssistance-APII\AIAssistanceAPI\DBUtility\obj\Debug\net7.0\ref\DBUtility.dll
+C:\Users\support.mid\source\Workspaces\ClinicalNotesAPI\AIAssistance-APII\AIAssistanceAPI\Assemblies\Debug\net7.0\DBUtility.deps.json
+C:\Users\support.mid\source\Workspaces\ClinicalNotesAPI\AIAssistance-APII\AIAssistanceAPI\Assemblies\Debug\net7.0\DBUtility.dll
+C:\Users\support.mid\source\Workspaces\ClinicalNotesAPI\AIAssistance-APII\AIAssistanceAPI\Assemblies\Debug\net7.0\DBUtility.pdb
+C:\Users\support.mid\source\Workspaces\ClinicalNotesAPI\AIAssistance-APII\AIAssistanceAPI\DBUtility\obj\Debug\net7.0\DBUtility.csproj.AssemblyReference.cache
+C:\Users\support.mid\source\Workspaces\ClinicalNotesAPI\AIAssistance-APII\AIAssistanceAPI\DBUtility\obj\Debug\net7.0\DBUtility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\support.mid\source\Workspaces\ClinicalNotesAPI\AIAssistance-APII\AIAssistanceAPI\DBUtility\obj\Debug\net7.0\DBUtility.AssemblyInfoInputs.cache
+C:\Users\support.mid\source\Workspaces\ClinicalNotesAPI\AIAssistance-APII\AIAssistanceAPI\DBUtility\obj\Debug\net7.0\DBUtility.AssemblyInfo.cs
+C:\Users\support.mid\source\Workspaces\ClinicalNotesAPI\AIAssistance-APII\AIAssistanceAPI\DBUtility\obj\Debug\net7.0\DBUtility.csproj.CoreCompileInputs.cache
+C:\Users\support.mid\source\Workspaces\ClinicalNotesAPI\AIAssistance-APII\AIAssistanceAPI\DBUtility\obj\Debug\net7.0\DBUtility.csproj.CopyComplete
+C:\Users\support.mid\source\Workspaces\ClinicalNotesAPI\AIAssistance-APII\AIAssistanceAPI\DBUtility\obj\Debug\net7.0\DBUtility.dll
+C:\Users\support.mid\source\Workspaces\ClinicalNotesAPI\AIAssistance-APII\AIAssistanceAPI\DBUtility\obj\Debug\net7.0\refint\DBUtility.dll
+C:\Users\support.mid\source\Workspaces\ClinicalNotesAPI\AIAssistance-APII\AIAssistanceAPI\DBUtility\obj\Debug\net7.0\DBUtility.pdb
+C:\Users\support.mid\source\Workspaces\ClinicalNotesAPI\AIAssistance-APII\AIAssistanceAPI\DBUtility\obj\Debug\net7.0\ref\DBUtility.dll
+C:\Users\support.mid\source\FOR AI\AIAssistanceAPI\Assemblies\Debug\net7.0\DBUtility.deps.json
+C:\Users\support.mid\source\FOR AI\AIAssistanceAPI\Assemblies\Debug\net7.0\DBUtility.dll
+C:\Users\support.mid\source\FOR AI\AIAssistanceAPI\Assemblies\Debug\net7.0\DBUtility.pdb
+C:\Users\support.mid\source\FOR AI\AIAssistanceAPI\DBUtility\obj\Debug\net7.0\DBUtility.csproj.AssemblyReference.cache
+C:\Users\support.mid\source\FOR AI\AIAssistanceAPI\DBUtility\obj\Debug\net7.0\DBUtility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\support.mid\source\FOR AI\AIAssistanceAPI\DBUtility\obj\Debug\net7.0\DBUtility.AssemblyInfoInputs.cache
+C:\Users\support.mid\source\FOR AI\AIAssistanceAPI\DBUtility\obj\Debug\net7.0\DBUtility.AssemblyInfo.cs
+C:\Users\support.mid\source\FOR AI\AIAssistanceAPI\DBUtility\obj\Debug\net7.0\DBUtility.csproj.CoreCompileInputs.cache
+C:\Users\support.mid\source\FOR AI\AIAssistanceAPI\DBUtility\obj\Debug\net7.0\DBUtility.csproj.CopyComplete
+C:\Users\support.mid\source\FOR AI\AIAssistanceAPI\DBUtility\obj\Debug\net7.0\DBUtility.dll
+C:\Users\support.mid\source\FOR AI\AIAssistanceAPI\DBUtility\obj\Debug\net7.0\refint\DBUtility.dll
+C:\Users\support.mid\source\FOR AI\AIAssistanceAPI\DBUtility\obj\Debug\net7.0\DBUtility.pdb
+C:\Users\support.mid\source\FOR AI\AIAssistanceAPI\DBUtility\obj\Debug\net7.0\ref\DBUtility.dll

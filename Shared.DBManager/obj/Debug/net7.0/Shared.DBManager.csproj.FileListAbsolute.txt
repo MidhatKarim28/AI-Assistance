@@ -1,0 +1,65 @@
+C:\Users\support.fs\source\Workspaces\AKUHIS.Template.API\Assemblies\Debug\net7.0\Shared.DBManager.deps.json
+C:\Users\support.fs\source\Workspaces\AKUHIS.Template.API\Assemblies\Debug\net7.0\Shared.DBManager.dll
+C:\Users\support.fs\source\Workspaces\AKUHIS.Template.API\Assemblies\Debug\net7.0\Shared.DBManager.pdb
+C:\Users\support.fs\source\Workspaces\AKUHIS.Template.API\Shared.DBManager\obj\Debug\net7.0\Shared.DBManager.csproj.AssemblyReference.cache
+C:\Users\support.fs\source\Workspaces\AKUHIS.Template.API\Shared.DBManager\obj\Debug\net7.0\Shared.DBManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\support.fs\source\Workspaces\AKUHIS.Template.API\Shared.DBManager\obj\Debug\net7.0\Shared.DBManager.AssemblyInfoInputs.cache
+C:\Users\support.fs\source\Workspaces\AKUHIS.Template.API\Shared.DBManager\obj\Debug\net7.0\Shared.DBManager.AssemblyInfo.cs
+C:\Users\support.fs\source\Workspaces\AKUHIS.Template.API\Shared.DBManager\obj\Debug\net7.0\Shared.DBManager.csproj.CoreCompileInputs.cache
+C:\Users\support.fs\source\Workspaces\AKUHIS.Template.API\Shared.DBManager\obj\Debug\net7.0\Shared.DBManager.csproj.CopyComplete
+C:\Users\support.fs\source\Workspaces\AKUHIS.Template.API\Shared.DBManager\obj\Debug\net7.0\Shared.DBManager.dll
+C:\Users\support.fs\source\Workspaces\AKUHIS.Template.API\Shared.DBManager\obj\Debug\net7.0\refint\Shared.DBManager.dll
+C:\Users\support.fs\source\Workspaces\AKUHIS.Template.API\Shared.DBManager\obj\Debug\net7.0\Shared.DBManager.pdb
+C:\Users\support.fs\source\Workspaces\AKUHIS.Template.API\Shared.DBManager\obj\Debug\net7.0\ref\Shared.DBManager.dll
+C:\Users\support.fs\source\AIAssistanceAPI\Assemblies\Debug\net7.0\Shared.DBManager.deps.json
+C:\Users\support.fs\source\AIAssistanceAPI\Assemblies\Debug\net7.0\Shared.DBManager.dll
+C:\Users\support.fs\source\AIAssistanceAPI\Assemblies\Debug\net7.0\Shared.DBManager.pdb
+C:\Users\support.fs\source\AIAssistanceAPI\Shared.DBManager\obj\Debug\net7.0\Shared.DBManager.csproj.AssemblyReference.cache
+C:\Users\support.fs\source\AIAssistanceAPI\Shared.DBManager\obj\Debug\net7.0\Shared.DBManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\support.fs\source\AIAssistanceAPI\Shared.DBManager\obj\Debug\net7.0\Shared.DBManager.AssemblyInfoInputs.cache
+C:\Users\support.fs\source\AIAssistanceAPI\Shared.DBManager\obj\Debug\net7.0\Shared.DBManager.AssemblyInfo.cs
+C:\Users\support.fs\source\AIAssistanceAPI\Shared.DBManager\obj\Debug\net7.0\Shared.DBManager.csproj.CoreCompileInputs.cache
+C:\Users\support.fs\source\AIAssistanceAPI\Shared.DBManager\obj\Debug\net7.0\Shared.DBManager.csproj.CopyComplete
+C:\Users\support.fs\source\AIAssistanceAPI\Shared.DBManager\obj\Debug\net7.0\Shared.DBManager.dll
+C:\Users\support.fs\source\AIAssistanceAPI\Shared.DBManager\obj\Debug\net7.0\refint\Shared.DBManager.dll
+C:\Users\support.fs\source\AIAssistanceAPI\Shared.DBManager\obj\Debug\net7.0\Shared.DBManager.pdb
+C:\Users\support.fs\source\AIAssistanceAPI\Shared.DBManager\obj\Debug\net7.0\ref\Shared.DBManager.dll
+C:\Users\support.auh\Source\Workspaces\AIAssistance-APII\AIAssistanceAPI\Assemblies\Debug\net7.0\Shared.DBManager.deps.json
+C:\Users\support.auh\Source\Workspaces\AIAssistance-APII\AIAssistanceAPI\Assemblies\Debug\net7.0\Shared.DBManager.dll
+C:\Users\support.auh\Source\Workspaces\AIAssistance-APII\AIAssistanceAPI\Assemblies\Debug\net7.0\Shared.DBManager.pdb
+C:\Users\support.auh\Source\Workspaces\AIAssistance-APII\AIAssistanceAPI\Shared.DBManager\obj\Debug\net7.0\Shared.DBManager.csproj.AssemblyReference.cache
+C:\Users\support.auh\Source\Workspaces\AIAssistance-APII\AIAssistanceAPI\Shared.DBManager\obj\Debug\net7.0\Shared.DBManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\support.auh\Source\Workspaces\AIAssistance-APII\AIAssistanceAPI\Shared.DBManager\obj\Debug\net7.0\Shared.DBManager.AssemblyInfoInputs.cache
+C:\Users\support.auh\Source\Workspaces\AIAssistance-APII\AIAssistanceAPI\Shared.DBManager\obj\Debug\net7.0\Shared.DBManager.AssemblyInfo.cs
+C:\Users\support.auh\Source\Workspaces\AIAssistance-APII\AIAssistanceAPI\Shared.DBManager\obj\Debug\net7.0\Shared.DBManager.csproj.CoreCompileInputs.cache
+C:\Users\support.auh\Source\Workspaces\AIAssistance-APII\AIAssistanceAPI\Shared.DBManager\obj\Debug\net7.0\Shared.DBManager.csproj.CopyComplete
+C:\Users\support.auh\Source\Workspaces\AIAssistance-APII\AIAssistanceAPI\Shared.DBManager\obj\Debug\net7.0\Shared.DBManager.dll
+C:\Users\support.auh\Source\Workspaces\AIAssistance-APII\AIAssistanceAPI\Shared.DBManager\obj\Debug\net7.0\refint\Shared.DBManager.dll
+C:\Users\support.auh\Source\Workspaces\AIAssistance-APII\AIAssistanceAPI\Shared.DBManager\obj\Debug\net7.0\Shared.DBManager.pdb
+C:\Users\support.auh\Source\Workspaces\AIAssistance-APII\AIAssistanceAPI\Shared.DBManager\obj\Debug\net7.0\ref\Shared.DBManager.dll
+C:\Users\support.mid\source\Workspaces\ClinicalNotesAPI\AIAssistance-APII\AIAssistanceAPI\Assemblies\Debug\net7.0\Shared.DBManager.deps.json
+C:\Users\support.mid\source\Workspaces\ClinicalNotesAPI\AIAssistance-APII\AIAssistanceAPI\Assemblies\Debug\net7.0\Shared.DBManager.dll
+C:\Users\support.mid\source\Workspaces\ClinicalNotesAPI\AIAssistance-APII\AIAssistanceAPI\Assemblies\Debug\net7.0\Shared.DBManager.pdb
+C:\Users\support.mid\source\Workspaces\ClinicalNotesAPI\AIAssistance-APII\AIAssistanceAPI\Shared.DBManager\obj\Debug\net7.0\Shared.DBManager.csproj.AssemblyReference.cache
+C:\Users\support.mid\source\Workspaces\ClinicalNotesAPI\AIAssistance-APII\AIAssistanceAPI\Shared.DBManager\obj\Debug\net7.0\Shared.DBManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\support.mid\source\Workspaces\ClinicalNotesAPI\AIAssistance-APII\AIAssistanceAPI\Shared.DBManager\obj\Debug\net7.0\Shared.DBManager.AssemblyInfoInputs.cache
+C:\Users\support.mid\source\Workspaces\ClinicalNotesAPI\AIAssistance-APII\AIAssistanceAPI\Shared.DBManager\obj\Debug\net7.0\Shared.DBManager.AssemblyInfo.cs
+C:\Users\support.mid\source\Workspaces\ClinicalNotesAPI\AIAssistance-APII\AIAssistanceAPI\Shared.DBManager\obj\Debug\net7.0\Shared.DBManager.csproj.CoreCompileInputs.cache
+C:\Users\support.mid\source\Workspaces\ClinicalNotesAPI\AIAssistance-APII\AIAssistanceAPI\Shared.DBManager\obj\Debug\net7.0\Shared.DBManager.csproj.CopyComplete
+C:\Users\support.mid\source\Workspaces\ClinicalNotesAPI\AIAssistance-APII\AIAssistanceAPI\Shared.DBManager\obj\Debug\net7.0\Shared.DBManager.dll
+C:\Users\support.mid\source\Workspaces\ClinicalNotesAPI\AIAssistance-APII\AIAssistanceAPI\Shared.DBManager\obj\Debug\net7.0\refint\Shared.DBManager.dll
+C:\Users\support.mid\source\Workspaces\ClinicalNotesAPI\AIAssistance-APII\AIAssistanceAPI\Shared.DBManager\obj\Debug\net7.0\Shared.DBManager.pdb
+C:\Users\support.mid\source\Workspaces\ClinicalNotesAPI\AIAssistance-APII\AIAssistanceAPI\Shared.DBManager\obj\Debug\net7.0\ref\Shared.DBManager.dll
+C:\Users\support.mid\source\FOR AI\AIAssistanceAPI\Assemblies\Debug\net7.0\Shared.DBManager.deps.json
+C:\Users\support.mid\source\FOR AI\AIAssistanceAPI\Assemblies\Debug\net7.0\Shared.DBManager.dll
+C:\Users\support.mid\source\FOR AI\AIAssistanceAPI\Assemblies\Debug\net7.0\Shared.DBManager.pdb
+C:\Users\support.mid\source\FOR AI\AIAssistanceAPI\Shared.DBManager\obj\Debug\net7.0\Shared.DBManager.csproj.AssemblyReference.cache
+C:\Users\support.mid\source\FOR AI\AIAssistanceAPI\Shared.DBManager\obj\Debug\net7.0\Shared.DBManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\support.mid\source\FOR AI\AIAssistanceAPI\Shared.DBManager\obj\Debug\net7.0\Shared.DBManager.AssemblyInfoInputs.cache
+C:\Users\support.mid\source\FOR AI\AIAssistanceAPI\Shared.DBManager\obj\Debug\net7.0\Shared.DBManager.AssemblyInfo.cs
+C:\Users\support.mid\source\FOR AI\AIAssistanceAPI\Shared.DBManager\obj\Debug\net7.0\Shared.DBManager.csproj.CoreCompileInputs.cache
+C:\Users\support.mid\source\FOR AI\AIAssistanceAPI\Shared.DBManager\obj\Debug\net7.0\Shared.DBManager.csproj.CopyComplete
+C:\Users\support.mid\source\FOR AI\AIAssistanceAPI\Shared.DBManager\obj\Debug\net7.0\Shared.DBManager.dll
+C:\Users\support.mid\source\FOR AI\AIAssistanceAPI\Shared.DBManager\obj\Debug\net7.0\refint\Shared.DBManager.dll
+C:\Users\support.mid\source\FOR AI\AIAssistanceAPI\Shared.DBManager\obj\Debug\net7.0\Shared.DBManager.pdb
+C:\Users\support.mid\source\FOR AI\AIAssistanceAPI\Shared.DBManager\obj\Debug\net7.0\ref\Shared.DBManager.dll

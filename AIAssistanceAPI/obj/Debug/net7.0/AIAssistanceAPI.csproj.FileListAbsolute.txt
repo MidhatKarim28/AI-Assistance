@@ -1,0 +1,116 @@
+C:\Users\support.fs\source\AIAssistanceAPI\Assemblies\Debug\net7.0\log4net.config
+C:\Users\support.fs\source\AIAssistanceAPI\Assemblies\Debug\net7.0\appsettings.Development.json
+C:\Users\support.fs\source\AIAssistanceAPI\Assemblies\Debug\net7.0\appsettings.json
+C:\Users\support.fs\source\AIAssistanceAPI\Assemblies\Debug\net7.0\AIAssistanceAPI.exe
+C:\Users\support.fs\source\AIAssistanceAPI\Assemblies\Debug\net7.0\AIAssistanceAPI.deps.json
+C:\Users\support.fs\source\AIAssistanceAPI\Assemblies\Debug\net7.0\AIAssistanceAPI.runtimeconfig.json
+C:\Users\support.fs\source\AIAssistanceAPI\Assemblies\Debug\net7.0\AIAssistanceAPI.dll
+C:\Users\support.fs\source\AIAssistanceAPI\Assemblies\Debug\net7.0\AIAssistanceAPI.pdb
+C:\Users\support.fs\source\AIAssistanceAPI\AIAssistanceAPI\obj\Debug\net7.0\AIAssistanceAPI.csproj.AssemblyReference.cache
+C:\Users\support.fs\source\AIAssistanceAPI\AIAssistanceAPI\obj\Debug\net7.0\AIAssistanceAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\support.fs\source\AIAssistanceAPI\AIAssistanceAPI\obj\Debug\net7.0\AIAssistanceAPI.AssemblyInfoInputs.cache
+C:\Users\support.fs\source\AIAssistanceAPI\AIAssistanceAPI\obj\Debug\net7.0\AIAssistanceAPI.AssemblyInfo.cs
+C:\Users\support.fs\source\AIAssistanceAPI\AIAssistanceAPI\obj\Debug\net7.0\AIAssistanceAPI.csproj.CoreCompileInputs.cache
+C:\Users\support.fs\source\AIAssistanceAPI\AIAssistanceAPI\obj\Debug\net7.0\AIAssistanceAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\support.fs\source\AIAssistanceAPI\AIAssistanceAPI\obj\Debug\net7.0\AIAssistanceAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\support.fs\source\AIAssistanceAPI\AIAssistanceAPI\obj\Debug\net7.0\staticwebassets\msbuild.AIAssistanceAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\support.fs\source\AIAssistanceAPI\AIAssistanceAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.AIAssistanceAPI.props
+C:\Users\support.fs\source\AIAssistanceAPI\AIAssistanceAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.AIAssistanceAPI.props
+C:\Users\support.fs\source\AIAssistanceAPI\AIAssistanceAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.AIAssistanceAPI.props
+C:\Users\support.fs\source\AIAssistanceAPI\AIAssistanceAPI\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\support.fs\source\AIAssistanceAPI\AIAssistanceAPI\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\support.fs\source\AIAssistanceAPI\AIAssistanceAPI\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\support.fs\source\AIAssistanceAPI\AIAssistanceAPI\obj\Debug\net7.0\scopedcss\bundle\AIAssistanceAPI.styles.css
+C:\Users\support.fs\source\AIAssistanceAPI\AIAssistanceAPI\obj\Debug\net7.0\AIAssistanceAPI.csproj.CopyComplete
+C:\Users\support.fs\source\AIAssistanceAPI\AIAssistanceAPI\obj\Debug\net7.0\AIAssistanceAPI.dll
+C:\Users\support.fs\source\AIAssistanceAPI\AIAssistanceAPI\obj\Debug\net7.0\refint\AIAssistanceAPI.dll
+C:\Users\support.fs\source\AIAssistanceAPI\AIAssistanceAPI\obj\Debug\net7.0\AIAssistanceAPI.pdb
+C:\Users\support.fs\source\AIAssistanceAPI\AIAssistanceAPI\obj\Debug\net7.0\AIAssistanceAPI.genruntimeconfig.cache
+C:\Users\support.fs\source\AIAssistanceAPI\AIAssistanceAPI\obj\Debug\net7.0\ref\AIAssistanceAPI.dll
+C:\Users\support.auh\Source\Workspaces\AIAssistance-APII\AIAssistanceAPI\Assemblies\Debug\net7.0\log4net.config
+C:\Users\support.auh\Source\Workspaces\AIAssistance-APII\AIAssistanceAPI\Assemblies\Debug\net7.0\appsettings.Development.json
+C:\Users\support.auh\Source\Workspaces\AIAssistance-APII\AIAssistanceAPI\Assemblies\Debug\net7.0\appsettings.json
+C:\Users\support.auh\Source\Workspaces\AIAssistance-APII\AIAssistanceAPI\Assemblies\Debug\net7.0\AIAssistanceAPI.exe
+C:\Users\support.auh\Source\Workspaces\AIAssistance-APII\AIAssistanceAPI\Assemblies\Debug\net7.0\AIAssistanceAPI.deps.json
+C:\Users\support.auh\Source\Workspaces\AIAssistance-APII\AIAssistanceAPI\Assemblies\Debug\net7.0\AIAssistanceAPI.runtimeconfig.json
+C:\Users\support.auh\Source\Workspaces\AIAssistance-APII\AIAssistanceAPI\Assemblies\Debug\net7.0\AIAssistanceAPI.dll
+C:\Users\support.auh\Source\Workspaces\AIAssistance-APII\AIAssistanceAPI\Assemblies\Debug\net7.0\AIAssistanceAPI.pdb
+C:\Users\support.auh\Source\Workspaces\AIAssistance-APII\AIAssistanceAPI\AIAssistanceAPI\obj\Debug\net7.0\AIAssistanceAPI.csproj.AssemblyReference.cache
+C:\Users\support.auh\Source\Workspaces\AIAssistance-APII\AIAssistanceAPI\AIAssistanceAPI\obj\Debug\net7.0\AIAssistanceAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\support.auh\Source\Workspaces\AIAssistance-APII\AIAssistanceAPI\AIAssistanceAPI\obj\Debug\net7.0\AIAssistanceAPI.AssemblyInfoInputs.cache
+C:\Users\support.auh\Source\Workspaces\AIAssistance-APII\AIAssistanceAPI\AIAssistanceAPI\obj\Debug\net7.0\AIAssistanceAPI.AssemblyInfo.cs
+C:\Users\support.auh\Source\Workspaces\AIAssistance-APII\AIAssistanceAPI\AIAssistanceAPI\obj\Debug\net7.0\AIAssistanceAPI.csproj.CoreCompileInputs.cache
+C:\Users\support.auh\Source\Workspaces\AIAssistance-APII\AIAssistanceAPI\AIAssistanceAPI\obj\Debug\net7.0\AIAssistanceAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\support.auh\Source\Workspaces\AIAssistance-APII\AIAssistanceAPI\AIAssistanceAPI\obj\Debug\net7.0\AIAssistanceAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\support.auh\Source\Workspaces\AIAssistance-APII\AIAssistanceAPI\AIAssistanceAPI\obj\Debug\net7.0\staticwebassets\msbuild.AIAssistanceAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\support.auh\Source\Workspaces\AIAssistance-APII\AIAssistanceAPI\AIAssistanceAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.AIAssistanceAPI.props
+C:\Users\support.auh\Source\Workspaces\AIAssistance-APII\AIAssistanceAPI\AIAssistanceAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.AIAssistanceAPI.props
+C:\Users\support.auh\Source\Workspaces\AIAssistance-APII\AIAssistanceAPI\AIAssistanceAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.AIAssistanceAPI.props
+C:\Users\support.auh\Source\Workspaces\AIAssistance-APII\AIAssistanceAPI\AIAssistanceAPI\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\support.auh\Source\Workspaces\AIAssistance-APII\AIAssistanceAPI\AIAssistanceAPI\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\support.auh\Source\Workspaces\AIAssistance-APII\AIAssistanceAPI\AIAssistanceAPI\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\support.auh\Source\Workspaces\AIAssistance-APII\AIAssistanceAPI\AIAssistanceAPI\obj\Debug\net7.0\scopedcss\bundle\AIAssistanceAPI.styles.css
+C:\Users\support.auh\Source\Workspaces\AIAssistance-APII\AIAssistanceAPI\AIAssistanceAPI\obj\Debug\net7.0\AIAssistanceAPI.csproj.CopyComplete
+C:\Users\support.auh\Source\Workspaces\AIAssistance-APII\AIAssistanceAPI\AIAssistanceAPI\obj\Debug\net7.0\AIAssistanceAPI.dll
+C:\Users\support.auh\Source\Workspaces\AIAssistance-APII\AIAssistanceAPI\AIAssistanceAPI\obj\Debug\net7.0\refint\AIAssistanceAPI.dll
+C:\Users\support.auh\Source\Workspaces\AIAssistance-APII\AIAssistanceAPI\AIAssistanceAPI\obj\Debug\net7.0\AIAssistanceAPI.pdb
+C:\Users\support.auh\Source\Workspaces\AIAssistance-APII\AIAssistanceAPI\AIAssistanceAPI\obj\Debug\net7.0\AIAssistanceAPI.genruntimeconfig.cache
+C:\Users\support.auh\Source\Workspaces\AIAssistance-APII\AIAssistanceAPI\AIAssistanceAPI\obj\Debug\net7.0\ref\AIAssistanceAPI.dll
+C:\Users\support.mid\source\Workspaces\ClinicalNotesAPI\AIAssistance-APII\AIAssistanceAPI\Assemblies\Debug\net7.0\log4net.config
+C:\Users\support.mid\source\Workspaces\ClinicalNotesAPI\AIAssistance-APII\AIAssistanceAPI\Assemblies\Debug\net7.0\appsettings.Development.json
+C:\Users\support.mid\source\Workspaces\ClinicalNotesAPI\AIAssistance-APII\AIAssistanceAPI\Assemblies\Debug\net7.0\appsettings.json
+C:\Users\support.mid\source\Workspaces\ClinicalNotesAPI\AIAssistance-APII\AIAssistanceAPI\Assemblies\Debug\net7.0\AIAssistanceAPI.exe
+C:\Users\support.mid\source\Workspaces\ClinicalNotesAPI\AIAssistance-APII\AIAssistanceAPI\Assemblies\Debug\net7.0\AIAssistanceAPI.deps.json
+C:\Users\support.mid\source\Workspaces\ClinicalNotesAPI\AIAssistance-APII\AIAssistanceAPI\Assemblies\Debug\net7.0\AIAssistanceAPI.runtimeconfig.json
+C:\Users\support.mid\source\Workspaces\ClinicalNotesAPI\AIAssistance-APII\AIAssistanceAPI\Assemblies\Debug\net7.0\AIAssistanceAPI.dll
+C:\Users\support.mid\source\Workspaces\ClinicalNotesAPI\AIAssistance-APII\AIAssistanceAPI\Assemblies\Debug\net7.0\AIAssistanceAPI.pdb
+C:\Users\support.mid\source\Workspaces\ClinicalNotesAPI\AIAssistance-APII\AIAssistanceAPI\AIAssistanceAPI\obj\Debug\net7.0\AIAssistanceAPI.csproj.AssemblyReference.cache
+C:\Users\support.mid\source\Workspaces\ClinicalNotesAPI\AIAssistance-APII\AIAssistanceAPI\AIAssistanceAPI\obj\Debug\net7.0\AIAssistanceAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\support.mid\source\Workspaces\ClinicalNotesAPI\AIAssistance-APII\AIAssistanceAPI\AIAssistanceAPI\obj\Debug\net7.0\AIAssistanceAPI.AssemblyInfoInputs.cache
+C:\Users\support.mid\source\Workspaces\ClinicalNotesAPI\AIAssistance-APII\AIAssistanceAPI\AIAssistanceAPI\obj\Debug\net7.0\AIAssistanceAPI.AssemblyInfo.cs
+C:\Users\support.mid\source\Workspaces\ClinicalNotesAPI\AIAssistance-APII\AIAssistanceAPI\AIAssistanceAPI\obj\Debug\net7.0\AIAssistanceAPI.csproj.CoreCompileInputs.cache
+C:\Users\support.mid\source\Workspaces\ClinicalNotesAPI\AIAssistance-APII\AIAssistanceAPI\AIAssistanceAPI\obj\Debug\net7.0\AIAssistanceAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\support.mid\source\Workspaces\ClinicalNotesAPI\AIAssistance-APII\AIAssistanceAPI\AIAssistanceAPI\obj\Debug\net7.0\AIAssistanceAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\support.mid\source\Workspaces\ClinicalNotesAPI\AIAssistance-APII\AIAssistanceAPI\AIAssistanceAPI\obj\Debug\net7.0\staticwebassets\msbuild.AIAssistanceAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\support.mid\source\Workspaces\ClinicalNotesAPI\AIAssistance-APII\AIAssistanceAPI\AIAssistanceAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.AIAssistanceAPI.props
+C:\Users\support.mid\source\Workspaces\ClinicalNotesAPI\AIAssistance-APII\AIAssistanceAPI\AIAssistanceAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.AIAssistanceAPI.props
+C:\Users\support.mid\source\Workspaces\ClinicalNotesAPI\AIAssistance-APII\AIAssistanceAPI\AIAssistanceAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.AIAssistanceAPI.props
+C:\Users\support.mid\source\Workspaces\ClinicalNotesAPI\AIAssistance-APII\AIAssistanceAPI\AIAssistanceAPI\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\support.mid\source\Workspaces\ClinicalNotesAPI\AIAssistance-APII\AIAssistanceAPI\AIAssistanceAPI\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\support.mid\source\Workspaces\ClinicalNotesAPI\AIAssistance-APII\AIAssistanceAPI\AIAssistanceAPI\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\support.mid\source\Workspaces\ClinicalNotesAPI\AIAssistance-APII\AIAssistanceAPI\AIAssistanceAPI\obj\Debug\net7.0\scopedcss\bundle\AIAssistanceAPI.styles.css
+C:\Users\support.mid\source\Workspaces\ClinicalNotesAPI\AIAssistance-APII\AIAssistanceAPI\AIAssistanceAPI\obj\Debug\net7.0\AIAssistanceAPI.csproj.CopyComplete
+C:\Users\support.mid\source\Workspaces\ClinicalNotesAPI\AIAssistance-APII\AIAssistanceAPI\AIAssistanceAPI\obj\Debug\net7.0\AIAssistanceAPI.dll
+C:\Users\support.mid\source\Workspaces\ClinicalNotesAPI\AIAssistance-APII\AIAssistanceAPI\AIAssistanceAPI\obj\Debug\net7.0\refint\AIAssistanceAPI.dll
+C:\Users\support.mid\source\Workspaces\ClinicalNotesAPI\AIAssistance-APII\AIAssistanceAPI\AIAssistanceAPI\obj\Debug\net7.0\AIAssistanceAPI.pdb
+C:\Users\support.mid\source\Workspaces\ClinicalNotesAPI\AIAssistance-APII\AIAssistanceAPI\AIAssistanceAPI\obj\Debug\net7.0\AIAssistanceAPI.genruntimeconfig.cache
+C:\Users\support.mid\source\Workspaces\ClinicalNotesAPI\AIAssistance-APII\AIAssistanceAPI\AIAssistanceAPI\obj\Debug\net7.0\ref\AIAssistanceAPI.dll
+C:\Users\support.mid\source\FOR AI\AIAssistanceAPI\Assemblies\Debug\net7.0\log4net.config
+C:\Users\support.mid\source\FOR AI\AIAssistanceAPI\Assemblies\Debug\net7.0\appsettings.Development.json
+C:\Users\support.mid\source\FOR AI\AIAssistanceAPI\Assemblies\Debug\net7.0\appsettings.json
+C:\Users\support.mid\source\FOR AI\AIAssistanceAPI\Assemblies\Debug\net7.0\AIAssistanceAPI.exe
+C:\Users\support.mid\source\FOR AI\AIAssistanceAPI\Assemblies\Debug\net7.0\AIAssistanceAPI.deps.json
+C:\Users\support.mid\source\FOR AI\AIAssistanceAPI\Assemblies\Debug\net7.0\AIAssistanceAPI.runtimeconfig.json
+C:\Users\support.mid\source\FOR AI\AIAssistanceAPI\Assemblies\Debug\net7.0\AIAssistanceAPI.dll
+C:\Users\support.mid\source\FOR AI\AIAssistanceAPI\Assemblies\Debug\net7.0\AIAssistanceAPI.pdb
+C:\Users\support.mid\source\FOR AI\AIAssistanceAPI\AIAssistanceAPI\obj\Debug\net7.0\AIAssistanceAPI.csproj.AssemblyReference.cache
+C:\Users\support.mid\source\FOR AI\AIAssistanceAPI\AIAssistanceAPI\obj\Debug\net7.0\AIAssistanceAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\support.mid\source\FOR AI\AIAssistanceAPI\AIAssistanceAPI\obj\Debug\net7.0\AIAssistanceAPI.AssemblyInfoInputs.cache
+C:\Users\support.mid\source\FOR AI\AIAssistanceAPI\AIAssistanceAPI\obj\Debug\net7.0\AIAssistanceAPI.AssemblyInfo.cs
+C:\Users\support.mid\source\FOR AI\AIAssistanceAPI\AIAssistanceAPI\obj\Debug\net7.0\AIAssistanceAPI.csproj.CoreCompileInputs.cache
+C:\Users\support.mid\source\FOR AI\AIAssistanceAPI\AIAssistanceAPI\obj\Debug\net7.0\AIAssistanceAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\support.mid\source\FOR AI\AIAssistanceAPI\AIAssistanceAPI\obj\Debug\net7.0\AIAssistanceAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\support.mid\source\FOR AI\AIAssistanceAPI\AIAssistanceAPI\obj\Debug\net7.0\staticwebassets\msbuild.AIAssistanceAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\support.mid\source\FOR AI\AIAssistanceAPI\AIAssistanceAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.AIAssistanceAPI.props
+C:\Users\support.mid\source\FOR AI\AIAssistanceAPI\AIAssistanceAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.AIAssistanceAPI.props
+C:\Users\support.mid\source\FOR AI\AIAssistanceAPI\AIAssistanceAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.AIAssistanceAPI.props
+C:\Users\support.mid\source\FOR AI\AIAssistanceAPI\AIAssistanceAPI\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\support.mid\source\FOR AI\AIAssistanceAPI\AIAssistanceAPI\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\support.mid\source\FOR AI\AIAssistanceAPI\AIAssistanceAPI\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\support.mid\source\FOR AI\AIAssistanceAPI\AIAssistanceAPI\obj\Debug\net7.0\scopedcss\bundle\AIAssistanceAPI.styles.css
+C:\Users\support.mid\source\FOR AI\AIAssistanceAPI\AIAssistanceAPI\obj\Debug\net7.0\AIAssistanceAPI.csproj.CopyComplete
+C:\Users\support.mid\source\FOR AI\AIAssistanceAPI\AIAssistanceAPI\obj\Debug\net7.0\AIAssistanceAPI.dll
+C:\Users\support.mid\source\FOR AI\AIAssistanceAPI\AIAssistanceAPI\obj\Debug\net7.0\refint\AIAssistanceAPI.dll
+C:\Users\support.mid\source\FOR AI\AIAssistanceAPI\AIAssistanceAPI\obj\Debug\net7.0\AIAssistanceAPI.pdb
+C:\Users\support.mid\source\FOR AI\AIAssistanceAPI\AIAssistanceAPI\obj\Debug\net7.0\AIAssistanceAPI.genruntimeconfig.cache
+C:\Users\support.mid\source\FOR AI\AIAssistanceAPI\AIAssistanceAPI\obj\Debug\net7.0\ref\AIAssistanceAPI.dll
