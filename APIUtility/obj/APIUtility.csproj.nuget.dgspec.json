@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\support.mid\\source\\FOR AI\\AIAssistanceAPI\\APIUtility\\APIUtility.csproj": {}
+    "C:\\Users\\support.mid\\source\\Workspaces\\ClinicalNotesAPI\\AIAssistance-APII\\AIAssistanceAPI\\APIUtility\\APIUtility.csproj": {}
   },
   "projects": {
-    "C:\\Users\\support.mid\\source\\FOR AI\\AIAssistanceAPI\\APIUtility\\APIUtility.csproj": {
+    "C:\\Users\\support.mid\\source\\Workspaces\\ClinicalNotesAPI\\AIAssistance-APII\\AIAssistanceAPI\\APIUtility\\APIUtility.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\support.mid\\source\\FOR AI\\AIAssistanceAPI\\APIUtility\\APIUtility.csproj",
+        "projectUniqueName": "C:\\Users\\support.mid\\source\\Workspaces\\ClinicalNotesAPI\\AIAssistance-APII\\AIAssistanceAPI\\APIUtility\\APIUtility.csproj",
         "projectName": "APIUtility",
-        "projectPath": "C:\\Users\\support.mid\\source\\FOR AI\\AIAssistanceAPI\\APIUtility\\APIUtility.csproj",
+        "projectPath": "C:\\Users\\support.mid\\source\\Workspaces\\ClinicalNotesAPI\\AIAssistance-APII\\AIAssistanceAPI\\APIUtility\\APIUtility.csproj",
         "packagesPath": "C:\\Users\\support.mid\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\support.mid\\source\\FOR AI\\AIAssistanceAPI\\APIUtility\\obj\\",
+        "outputPath": "C:\\Users\\support.mid\\source\\Workspaces\\ClinicalNotesAPI\\AIAssistance-APII\\AIAssistanceAPI\\APIUtility\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -33,11 +33,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\support.mid\\source\\FOR AI\\AIAssistanceAPI\\DBUtility\\DBUtility.csproj": {
-                "projectPath": "C:\\Users\\support.mid\\source\\FOR AI\\AIAssistanceAPI\\DBUtility\\DBUtility.csproj"
+              "C:\\Users\\support.mid\\source\\Workspaces\\ClinicalNotesAPI\\AIAssistance-APII\\AIAssistanceAPI\\DBUtility\\DBUtility.csproj": {
+                "projectPath": "C:\\Users\\support.mid\\source\\Workspaces\\ClinicalNotesAPI\\AIAssistance-APII\\AIAssistanceAPI\\DBUtility\\DBUtility.csproj"
               },
-              "C:\\Users\\support.mid\\source\\FOR AI\\AIAssistanceAPI\\Utility\\Utility.csproj": {
-                "projectPath": "C:\\Users\\support.mid\\source\\FOR AI\\AIAssistanceAPI\\Utility\\Utility.csproj"
+              "C:\\Users\\support.mid\\source\\Workspaces\\ClinicalNotesAPI\\AIAssistance-APII\\AIAssistanceAPI\\Utility\\Utility.csproj": {
+                "projectPath": "C:\\Users\\support.mid\\source\\Workspaces\\ClinicalNotesAPI\\AIAssistance-APII\\AIAssistanceAPI\\Utility\\Utility.csproj"
               }
             }
           }
@@ -93,14 +93,14 @@
         }
       }
     },
-    "C:\\Users\\support.mid\\source\\FOR AI\\AIAssistanceAPI\\DBUtility\\DBUtility.csproj": {
+    "C:\\Users\\support.mid\\source\\Workspaces\\ClinicalNotesAPI\\AIAssistance-APII\\AIAssistanceAPI\\DBUtility\\DBUtility.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\support.mid\\source\\FOR AI\\AIAssistanceAPI\\DBUtility\\DBUtility.csproj",
+        "projectUniqueName": "C:\\Users\\support.mid\\source\\Workspaces\\ClinicalNotesAPI\\AIAssistance-APII\\AIAssistanceAPI\\DBUtility\\DBUtility.csproj",
         "projectName": "DBUtility",
-        "projectPath": "C:\\Users\\support.mid\\source\\FOR AI\\AIAssistanceAPI\\DBUtility\\DBUtility.csproj",
+        "projectPath": "C:\\Users\\support.mid\\source\\Workspaces\\ClinicalNotesAPI\\AIAssistance-APII\\AIAssistanceAPI\\DBUtility\\DBUtility.csproj",
         "packagesPath": "C:\\Users\\support.mid\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\support.mid\\source\\FOR AI\\AIAssistanceAPI\\DBUtility\\obj\\",
+        "outputPath": "C:\\Users\\support.mid\\source\\Workspaces\\ClinicalNotesAPI\\AIAssistance-APII\\AIAssistanceAPI\\DBUtility\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -122,8 +122,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\support.mid\\source\\FOR AI\\AIAssistanceAPI\\Utility\\Utility.csproj": {
-                "projectPath": "C:\\Users\\support.mid\\source\\FOR AI\\AIAssistanceAPI\\Utility\\Utility.csproj"
+              "C:\\Users\\support.mid\\source\\Workspaces\\ClinicalNotesAPI\\AIAssistance-APII\\AIAssistanceAPI\\Utility\\Utility.csproj": {
+                "projectPath": "C:\\Users\\support.mid\\source\\Workspaces\\ClinicalNotesAPI\\AIAssistance-APII\\AIAssistanceAPI\\Utility\\Utility.csproj"
               }
             }
           }
@@ -163,14 +163,14 @@
         }
       }
     },
-    "C:\\Users\\support.mid\\source\\FOR AI\\AIAssistanceAPI\\Utility\\Utility.csproj": {
+    "C:\\Users\\support.mid\\source\\Workspaces\\ClinicalNotesAPI\\AIAssistance-APII\\AIAssistanceAPI\\Utility\\Utility.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\support.mid\\source\\FOR AI\\AIAssistanceAPI\\Utility\\Utility.csproj",
+        "projectUniqueName": "C:\\Users\\support.mid\\source\\Workspaces\\ClinicalNotesAPI\\AIAssistance-APII\\AIAssistanceAPI\\Utility\\Utility.csproj",
         "projectName": "Utility",
-        "projectPath": "C:\\Users\\support.mid\\source\\FOR AI\\AIAssistanceAPI\\Utility\\Utility.csproj",
+        "projectPath": "C:\\Users\\support.mid\\source\\Workspaces\\ClinicalNotesAPI\\AIAssistance-APII\\AIAssistanceAPI\\Utility\\Utility.csproj",
         "packagesPath": "C:\\Users\\support.mid\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\support.mid\\source\\FOR AI\\AIAssistanceAPI\\Utility\\obj\\",
+        "outputPath": "C:\\Users\\support.mid\\source\\Workspaces\\ClinicalNotesAPI\\AIAssistance-APII\\AIAssistanceAPI\\Utility\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

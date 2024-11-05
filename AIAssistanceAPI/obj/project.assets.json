@@ -7367,11 +7367,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\support.mid\\source\\FOR AI\\AIAssistanceAPI\\AIAssistanceAPI\\AIAssistanceAPI.csproj",
+      "projectUniqueName": "C:\\Users\\support.mid\\source\\Workspaces\\ClinicalNotesAPI\\AIAssistance-APII\\AIAssistanceAPI\\AIAssistanceAPI\\AIAssistanceAPI.csproj",
       "projectName": "AIAssistanceAPI",
-      "projectPath": "C:\\Users\\support.mid\\source\\FOR AI\\AIAssistanceAPI\\AIAssistanceAPI\\AIAssistanceAPI.csproj",
+      "projectPath": "C:\\Users\\support.mid\\source\\Workspaces\\ClinicalNotesAPI\\AIAssistance-APII\\AIAssistanceAPI\\AIAssistanceAPI\\AIAssistanceAPI.csproj",
       "packagesPath": "C:\\Users\\support.mid\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\support.mid\\source\\FOR AI\\AIAssistanceAPI\\AIAssistanceAPI\\obj\\",
+      "outputPath": "C:\\Users\\support.mid\\source\\Workspaces\\ClinicalNotesAPI\\AIAssistance-APII\\AIAssistanceAPI\\AIAssistanceAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -7393,17 +7393,17 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\support.mid\\source\\FOR AI\\AIAssistanceAPI\\APIUtility\\APIUtility.csproj": {
-              "projectPath": "C:\\Users\\support.mid\\source\\FOR AI\\AIAssistanceAPI\\APIUtility\\APIUtility.csproj"
+            "C:\\Users\\support.mid\\source\\Workspaces\\ClinicalNotesAPI\\AIAssistance-APII\\AIAssistanceAPI\\APIUtility\\APIUtility.csproj": {
+              "projectPath": "C:\\Users\\support.mid\\source\\Workspaces\\ClinicalNotesAPI\\AIAssistance-APII\\AIAssistanceAPI\\APIUtility\\APIUtility.csproj"
             },
-            "C:\\Users\\support.mid\\source\\FOR AI\\AIAssistanceAPI\\OpenAI.DBManager\\OpenAI.DBManager.csproj": {
-              "projectPath": "C:\\Users\\support.mid\\source\\FOR AI\\AIAssistanceAPI\\OpenAI.DBManager\\OpenAI.DBManager.csproj"
+            "C:\\Users\\support.mid\\source\\Workspaces\\ClinicalNotesAPI\\AIAssistance-APII\\AIAssistanceAPI\\OpenAI.DBManager\\OpenAI.DBManager.csproj": {
+              "projectPath": "C:\\Users\\support.mid\\source\\Workspaces\\ClinicalNotesAPI\\AIAssistance-APII\\AIAssistanceAPI\\OpenAI.DBManager\\OpenAI.DBManager.csproj"
             },
-            "C:\\Users\\support.mid\\source\\FOR AI\\AIAssistanceAPI\\Shared.DBManager\\Shared.DBManager.csproj": {
-              "projectPath": "C:\\Users\\support.mid\\source\\FOR AI\\AIAssistanceAPI\\Shared.DBManager\\Shared.DBManager.csproj"
+            "C:\\Users\\support.mid\\source\\Workspaces\\ClinicalNotesAPI\\AIAssistance-APII\\AIAssistanceAPI\\Shared.DBManager\\Shared.DBManager.csproj": {
+              "projectPath": "C:\\Users\\support.mid\\source\\Workspaces\\ClinicalNotesAPI\\AIAssistance-APII\\AIAssistanceAPI\\Shared.DBManager\\Shared.DBManager.csproj"
             },
-            "C:\\Users\\support.mid\\source\\FOR AI\\AIAssistanceAPI\\Utility\\Utility.csproj": {
-              "projectPath": "C:\\Users\\support.mid\\source\\FOR AI\\AIAssistanceAPI\\Utility\\Utility.csproj"
+            "C:\\Users\\support.mid\\source\\Workspaces\\ClinicalNotesAPI\\AIAssistance-APII\\AIAssistanceAPI\\Utility\\Utility.csproj": {
+              "projectPath": "C:\\Users\\support.mid\\source\\Workspaces\\ClinicalNotesAPI\\AIAssistance-APII\\AIAssistanceAPI\\Utility\\Utility.csproj"
             }
           }
         }
