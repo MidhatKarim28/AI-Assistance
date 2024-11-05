@@ -41,16 +41,3 @@ C:\Users\support.mid\source\Workspaces\ClinicalNotesAPI\AIAssistance-APII\AIAssi
 C:\Users\support.mid\source\Workspaces\ClinicalNotesAPI\AIAssistance-APII\AIAssistanceAPI\OpenAI.Models\obj\Debug\net7.0\refint\OpenAI.Models.dll
 C:\Users\support.mid\source\Workspaces\ClinicalNotesAPI\AIAssistance-APII\AIAssistanceAPI\OpenAI.Models\obj\Debug\net7.0\OpenAI.Models.pdb
 C:\Users\support.mid\source\Workspaces\ClinicalNotesAPI\AIAssistance-APII\AIAssistanceAPI\OpenAI.Models\obj\Debug\net7.0\ref\OpenAI.Models.dll
-C:\Users\support.mid\source\FOR AI\AIAssistanceAPI\Assemblies\Debug\net7.0\OpenAI.Models.deps.json
-C:\Users\support.mid\source\FOR AI\AIAssistanceAPI\Assemblies\Debug\net7.0\OpenAI.Models.dll
-C:\Users\support.mid\source\FOR AI\AIAssistanceAPI\Assemblies\Debug\net7.0\OpenAI.Models.pdb
-C:\Users\support.mid\source\FOR AI\AIAssistanceAPI\OpenAI.Models\obj\Debug\net7.0\OpenAI.Models.csproj.AssemblyReference.cache
-C:\Users\support.mid\source\FOR AI\AIAssistanceAPI\OpenAI.Models\obj\Debug\net7.0\OpenAI.Models.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\support.mid\source\FOR AI\AIAssistanceAPI\OpenAI.Models\obj\Debug\net7.0\OpenAI.Models.AssemblyInfoInputs.cache
-C:\Users\support.mid\source\FOR AI\AIAssistanceAPI\OpenAI.Models\obj\Debug\net7.0\OpenAI.Models.AssemblyInfo.cs
-C:\Users\support.mid\source\FOR AI\AIAssistanceAPI\OpenAI.Models\obj\Debug\net7.0\OpenAI.Models.csproj.CoreCompileInputs.cache
-C:\Users\support.mid\source\FOR AI\AIAssistanceAPI\OpenAI.Models\obj\Debug\net7.0\OpenAI.Models.csproj.CopyComplete
-C:\Users\support.mid\source\FOR AI\AIAssistanceAPI\OpenAI.Models\obj\Debug\net7.0\OpenAI.Models.dll
-C:\Users\support.mid\source\FOR AI\AIAssistanceAPI\OpenAI.Models\obj\Debug\net7.0\refint\OpenAI.Models.dll
-C:\Users\support.mid\source\FOR AI\AIAssistanceAPI\OpenAI.Models\obj\Debug\net7.0\OpenAI.Models.pdb
-C:\Users\support.mid\source\FOR AI\AIAssistanceAPI\OpenAI.Models\obj\Debug\net7.0\ref\OpenAI.Models.dll

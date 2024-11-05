@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\AKUHIS.Template.API.props" />
+</Project>

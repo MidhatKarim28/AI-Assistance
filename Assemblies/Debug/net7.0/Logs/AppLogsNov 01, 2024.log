@@ -1,0 +1,264 @@
+12:16:39 - API Started
+12:25:34 - One or more errors occurred. (OpenAI rejected your authorization, most likely due to an invalid API Key.  Try checking your API Key and see https://github.com/OkGoDoIt/OpenAI-API-dotnet#authentication for guidance.  Full API response follows: {
+    "error": {
+        "message": "Incorrect API key provided: sk-XbKLJ***************************************Ty9Y. You can find your API key at https://platform.openai.com/account/api-keys.",
+        "type": "invalid_request_error",
+        "param": null,
+        "code": "invalid_api_key"
+    }
+}
+)
+   at System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   at System.Threading.Tasks.Task`1.GetResultCore(Boolean waitCompletionNotification)
+   at OpenAI.DBManager.OpenAITurboManager.GetAIAssistance(RequestModel request) in C:\Users\support.mid\source\Workspaces\ClinicalNotesAPI\AIAssistance-APII\AIAssistanceAPI\OpenAI.DBManager\OpenAITurbo\OpenAITurboManager.cs:line 46
+12:25:34 - OpenAI rejected your authorization, most likely due to an invalid API Key.  Try checking your API Key and see https://github.com/OkGoDoIt/OpenAI-API-dotnet#authentication for guidance.  Full API response follows: {
+    "error": {
+        "message": "Incorrect API key provided: sk-XbKLJ***************************************Ty9Y. You can find your API key at https://platform.openai.com/account/api-keys.",
+        "type": "invalid_request_error",
+        "param": null,
+        "code": "invalid_api_key"
+    }
+}
+
+   at OpenAI_API.EndpointBase.HttpRequestRaw(String url, HttpMethod verb, Object postData, Boolean streaming)
+   at OpenAI_API.EndpointBase.HttpRequest[T](String url, HttpMethod verb, Object postData)
+   at OpenAI_API.EndpointBase.HttpPost[T](String url, Object postData)
+   at OpenAI_API.Chat.ChatEndpoint.CreateChatCompletionAsync(ChatRequest request)
+12:26:28 - API Started
+12:28:29 - One or more errors occurred. (OpenAI rejected your authorization, most likely due to an invalid API Key.  Try checking your API Key and see https://github.com/OkGoDoIt/OpenAI-API-dotnet#authentication for guidance.  Full API response follows: {
+    "error": {
+        "message": "Incorrect API key provided: sk-XbKLJ***************************************Ty9Y. You can find your API key at https://platform.openai.com/account/api-keys.",
+        "type": "invalid_request_error",
+        "param": null,
+        "code": "invalid_api_key"
+    }
+}
+)
+   at System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   at System.Threading.Tasks.Task`1.GetResultCore(Boolean waitCompletionNotification)
+   at OpenAI.DBManager.OpenAITurboManager.GetAIClinicalNote(RequestModel request)
+12:28:29 - OpenAI rejected your authorization, most likely due to an invalid API Key.  Try checking your API Key and see https://github.com/OkGoDoIt/OpenAI-API-dotnet#authentication for guidance.  Full API response follows: {
+    "error": {
+        "message": "Incorrect API key provided: sk-XbKLJ***************************************Ty9Y. You can find your API key at https://platform.openai.com/account/api-keys.",
+        "type": "invalid_request_error",
+        "param": null,
+        "code": "invalid_api_key"
+    }
+}
+
+   at OpenAI_API.EndpointBase.HttpRequestRaw(String url, HttpMethod verb, Object postData, Boolean streaming)
+   at OpenAI_API.EndpointBase.HttpGetContent(String url, HttpMethod verb, Object postData)
+   at OpenAI_API.Audio.TranscriptionEndpoint.GetAsFormatAsync(Stream audioStream, String filename, String responseFormat, String language, String prompt, Nullable`1 temperature)
+   at OpenAI_API.Audio.TranscriptionEndpoint.GetTextAsync(Stream audioStream, String filename, String language, String prompt, Nullable`1 temperature)
+   at OpenAI_API.Audio.TranscriptionEndpoint.GetTextAsync(String audioFilePath, String language, String prompt, Nullable`1 temperature)
+   at OpenAI.DBManager.OpenAITurboManager.getNote(OpenAIAPI openai, String message)
+12:31:11 - One or more errors occurred. (One or more errors occurred. (OpenAI rejected your authorization, most likely due to an invalid API Key.  Try checking your API Key and see https://github.com/OkGoDoIt/OpenAI-API-dotnet#authentication for guidance.  Full API response follows: {
+    "error": {
+        "message": "Incorrect API key provided: sk-XbKLJ***************************************Ty9Y. You can find your API key at https://platform.openai.com/account/api-keys.",
+        "type": "invalid_request_error",
+        "param": null,
+        "code": "invalid_api_key"
+    }
+}
+))
+   at System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   at System.Threading.Tasks.Task`1.GetResultCore(Boolean waitCompletionNotification)
+   at OpenAI.DBManager.OpenAITurboManager.GetAIClinicalNote(RequestModel request)
+12:31:11 - One or more errors occurred. (OpenAI rejected your authorization, most likely due to an invalid API Key.  Try checking your API Key and see https://github.com/OkGoDoIt/OpenAI-API-dotnet#authentication for guidance.  Full API response follows: {
+    "error": {
+        "message": "Incorrect API key provided: sk-XbKLJ***************************************Ty9Y. You can find your API key at https://platform.openai.com/account/api-keys.",
+        "type": "invalid_request_error",
+        "param": null,
+        "code": "invalid_api_key"
+    }
+}
+)
+   at System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   at System.Threading.Tasks.Task`1.GetResultCore(Boolean waitCompletionNotification)
+   at OpenAI.DBManager.OpenAITurboManager.getNote(OpenAIAPI openai, String message)
+12:31:53 - One or more errors occurred. (One or more errors occurred. (OpenAI rejected your authorization, most likely due to an invalid API Key.  Try checking your API Key and see https://github.com/OkGoDoIt/OpenAI-API-dotnet#authentication for guidance.  Full API response follows: {
+    "error": {
+        "message": "Incorrect API key provided: sk-XbKLJ***************************************Ty9Y. You can find your API key at https://platform.openai.com/account/api-keys.",
+        "type": "invalid_request_error",
+        "param": null,
+        "code": "invalid_api_key"
+    }
+}
+))
+   at System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   at System.Threading.Tasks.Task`1.GetResultCore(Boolean waitCompletionNotification)
+   at OpenAI.DBManager.OpenAITurboManager.GetAIClinicalNote(RequestModel request)
+12:31:53 - One or more errors occurred. (OpenAI rejected your authorization, most likely due to an invalid API Key.  Try checking your API Key and see https://github.com/OkGoDoIt/OpenAI-API-dotnet#authentication for guidance.  Full API response follows: {
+    "error": {
+        "message": "Incorrect API key provided: sk-XbKLJ***************************************Ty9Y. You can find your API key at https://platform.openai.com/account/api-keys.",
+        "type": "invalid_request_error",
+        "param": null,
+        "code": "invalid_api_key"
+    }
+}
+)
+   at System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   at System.Threading.Tasks.Task`1.GetResultCore(Boolean waitCompletionNotification)
+   at OpenAI.DBManager.OpenAITurboManager.getNote(OpenAIAPI openai, String message)
+12:33:59 - API Started
+12:34:29 - One or more errors occurred. (One or more errors occurred. (OpenAI rejected your authorization, most likely due to an invalid API Key.  Try checking your API Key and see https://github.com/OkGoDoIt/OpenAI-API-dotnet#authentication for guidance.  Full API response follows: {
+    "error": {
+        "message": "Incorrect API key provided: sk-XbKLJ***************************************Ty9Y. You can find your API key at https://platform.openai.com/account/api-keys.",
+        "type": "invalid_request_error",
+        "param": null,
+        "code": "invalid_api_key"
+    }
+}
+))
+   at System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   at System.Threading.Tasks.Task`1.GetResultCore(Boolean waitCompletionNotification)
+   at OpenAI.DBManager.OpenAITurboManager.GetAIClinicalNote(RequestModel request) in C:\Users\support.mid\source\Workspaces\ClinicalNotesAPI\AIAssistance-APII\AIAssistanceAPI\OpenAI.DBManager\OpenAITurbo\OpenAITurboManager.cs:line 208
+12:34:29 - One or more errors occurred. (OpenAI rejected your authorization, most likely due to an invalid API Key.  Try checking your API Key and see https://github.com/OkGoDoIt/OpenAI-API-dotnet#authentication for guidance.  Full API response follows: {
+    "error": {
+        "message": "Incorrect API key provided: sk-XbKLJ***************************************Ty9Y. You can find your API key at https://platform.openai.com/account/api-keys.",
+        "type": "invalid_request_error",
+        "param": null,
+        "code": "invalid_api_key"
+    }
+}
+)
+   at System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   at System.Threading.Tasks.Task`1.GetResultCore(Boolean waitCompletionNotification)
+   at OpenAI.DBManager.OpenAITurboManager.getNote(OpenAIAPI openai, String message) in C:\Users\support.mid\source\Workspaces\ClinicalNotesAPI\AIAssistance-APII\AIAssistanceAPI\OpenAI.DBManager\OpenAITurbo\OpenAITurboManager.cs:line 239
+12:36:38 - API Started
+12:36:47 - One or more errors occurred. (OpenAI rejected your authorization, most likely due to an invalid API Key.  Try checking your API Key and see https://github.com/OkGoDoIt/OpenAI-API-dotnet#authentication for guidance.  Full API response follows: {
+    "error": {
+        "message": "Incorrect API key provided: sk-XbKLJ***************************************Ty9Y. You can find your API key at https://platform.openai.com/account/api-keys.",
+        "type": "invalid_request_error",
+        "param": null,
+        "code": "invalid_api_key"
+    }
+}
+)
+   at System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   at System.Threading.Tasks.Task`1.GetResultCore(Boolean waitCompletionNotification)
+   at OpenAI.DBManager.OpenAITurboManager.GetAIClinicalNote(RequestModel request) in C:\Users\support.mid\source\Workspaces\ClinicalNotesAPI\AIAssistance-APII\AIAssistanceAPI\OpenAI.DBManager\OpenAITurbo\OpenAITurboManager.cs:line 208
+12:36:47 - OpenAI rejected your authorization, most likely due to an invalid API Key.  Try checking your API Key and see https://github.com/OkGoDoIt/OpenAI-API-dotnet#authentication for guidance.  Full API response follows: {
+    "error": {
+        "message": "Incorrect API key provided: sk-XbKLJ***************************************Ty9Y. You can find your API key at https://platform.openai.com/account/api-keys.",
+        "type": "invalid_request_error",
+        "param": null,
+        "code": "invalid_api_key"
+    }
+}
+
+   at OpenAI_API.EndpointBase.HttpRequestRaw(String url, HttpMethod verb, Object postData, Boolean streaming)
+   at OpenAI_API.EndpointBase.HttpGetContent(String url, HttpMethod verb, Object postData)
+   at OpenAI_API.Audio.TranscriptionEndpoint.GetAsFormatAsync(Stream audioStream, String filename, String responseFormat, String language, String prompt, Nullable`1 temperature)
+   at OpenAI_API.Audio.TranscriptionEndpoint.GetTextAsync(Stream audioStream, String filename, String language, String prompt, Nullable`1 temperature)
+   at OpenAI_API.Audio.TranscriptionEndpoint.GetTextAsync(String audioFilePath, String language, String prompt, Nullable`1 temperature)
+   at OpenAI.DBManager.OpenAITurboManager.getNote(OpenAIAPI openai, String message) in C:\Users\support.mid\source\Workspaces\ClinicalNotesAPI\AIAssistance-APII\AIAssistanceAPI\OpenAI.DBManager\OpenAITurbo\OpenAITurboManager.cs:line 239
+12:41:11 - API Started
+12:43:36 - API Started
+13:30:14 - API Started
+13:33:33 - Value cannot be null. (Parameter 'source')
+   at System.Linq.ThrowHelper.ThrowArgumentNullException(ExceptionArgument argument)
+   at System.Linq.Enumerable.Select[TSource,TResult](IEnumerable`1 source, Func`2 selector)
+   at OpenAI.DBManager.OpenAITurboManager.GetAIClinicalNote(RequestModel request) in C:\Users\support.mid\source\Workspaces\ClinicalNotesAPI\AIAssistance-APII\AIAssistanceAPI\OpenAI.DBManager\OpenAITurbo\OpenAITurboManager.cs:line 227
+14:46:08 - Value cannot be null. (Parameter 'source')
+   at System.Linq.ThrowHelper.ThrowArgumentNullException(ExceptionArgument argument)
+   at System.Linq.Enumerable.Select[TSource,TResult](IEnumerable`1 source, Func`2 selector)
+   at OpenAI.DBManager.OpenAITurboManager.GetAIClinicalNote(RequestModel request)
+14:50:58 - Value cannot be null. (Parameter 'source')
+   at System.Linq.ThrowHelper.ThrowArgumentNullException(ExceptionArgument argument)
+   at System.Linq.Enumerable.Select[TSource,TResult](IEnumerable`1 source, Func`2 selector)
+   at OpenAI.DBManager.OpenAITurboManager.GetAIClinicalNote(RequestModel request)
+14:58:10 - Error while copying content to a stream.
+   at System.Net.Http.HttpContent.<CopyToAsync>g__WaitAsync|56_0(ValueTask copyTask)
+   at System.Net.Http.MultipartContent.SerializeToStreamAsyncCore(Stream stream, TransportContext context, CancellationToken cancellationToken)
+   at System.Net.Http.HttpContent.<CopyToAsync>g__WaitAsync|56_0(ValueTask copyTask)
+   at System.Net.Http.HttpConnection.SendRequestContentAsync(HttpRequestMessage request, HttpContentWriteStream stream, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at OpenAI_API.EndpointBase.HttpRequestRaw(String url, HttpMethod verb, Object postData, Boolean streaming)
+   at OpenAI_API.EndpointBase.HttpGetContent(String url, HttpMethod verb, Object postData)
+   at OpenAI_API.Audio.TranscriptionEndpoint.GetAsFormatAsync(Stream audioStream, String filename, String responseFormat, String language, String prompt, Nullable`1 temperature)
+   at OpenAI_API.Audio.TranscriptionEndpoint.GetTextAsync(Stream audioStream, String filename, String language, String prompt, Nullable`1 temperature)
+   at OpenAI_API.Audio.TranscriptionEndpoint.GetTextAsync(String audioFilePath, String language, String prompt, Nullable`1 temperature)
+   at OpenAI.DBManager.OpenAITurboManager.getNote(OpenAIAPI openai, String message)
+14:58:10 - Unable to write data to the transport connection: An established connection was aborted by the software in your host machine..
+   at System.Net.Security.SslStream.<WriteSingleChunk>g__CompleteWriteAsync|153_1[TIOAdapter](ValueTask writeTask, Byte[] bufferToReturn)
+   at System.Net.Security.SslStream.WriteAsyncChunked[TIOAdapter](ReadOnlyMemory`1 buffer, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.WriteAsyncInternal[TIOAdapter](ReadOnlyMemory`1 buffer, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnection.WriteAsync(ReadOnlyMemory`1 source, Boolean async)
+   at System.Net.Http.HttpContent.<CopyToAsync>g__WaitAsync|56_0(ValueTask copyTask)
+14:58:10 - Error generating the note.
+   at OpenAI.DBManager.OpenAITurboManager.getNote(OpenAIAPI openai, String message)
+   at OpenAI.DBManager.OpenAITurboManager.GetAIClinicalNote(RequestModel request)
+14:58:10 - Error while copying content to a stream.
+   at System.Net.Http.HttpContent.<CopyToAsync>g__WaitAsync|56_0(ValueTask copyTask)
+   at System.Net.Http.MultipartContent.SerializeToStreamAsyncCore(Stream stream, TransportContext context, CancellationToken cancellationToken)
+   at System.Net.Http.HttpContent.<CopyToAsync>g__WaitAsync|56_0(ValueTask copyTask)
+   at System.Net.Http.HttpConnection.SendRequestContentAsync(HttpRequestMessage request, HttpContentWriteStream stream, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at OpenAI_API.EndpointBase.HttpRequestRaw(String url, HttpMethod verb, Object postData, Boolean streaming)
+   at OpenAI_API.EndpointBase.HttpGetContent(String url, HttpMethod verb, Object postData)
+   at OpenAI_API.Audio.TranscriptionEndpoint.GetAsFormatAsync(Stream audioStream, String filename, String responseFormat, String language, String prompt, Nullable`1 temperature)
+   at OpenAI_API.Audio.TranscriptionEndpoint.GetTextAsync(Stream audioStream, String filename, String language, String prompt, Nullable`1 temperature)
+   at OpenAI_API.Audio.TranscriptionEndpoint.GetTextAsync(String audioFilePath, String language, String prompt, Nullable`1 temperature)
+   at OpenAI.DBManager.OpenAITurboManager.getNote(OpenAIAPI openai, String message)
+14:59:44 - The SSL connection could not be established, see inner exception.
+   at System.Net.Http.ConnectHelper.EstablishSslConnectionAsync(SslClientAuthenticationOptions sslOptions, HttpRequestMessage request, Boolean async, Stream stream, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.AddHttp11ConnectionAsync(QueueItem queueItem)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.HttpConnectionWaiter`1.WaitForConnectionAsync(Boolean async, CancellationToken requestCancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at OpenAI_API.EndpointBase.HttpRequestRaw(String url, HttpMethod verb, Object postData, Boolean streaming)
+   at OpenAI_API.EndpointBase.HttpGetContent(String url, HttpMethod verb, Object postData)
+   at OpenAI_API.Audio.TranscriptionEndpoint.GetAsFormatAsync(Stream audioStream, String filename, String responseFormat, String language, String prompt, Nullable`1 temperature)
+   at OpenAI_API.Audio.TranscriptionEndpoint.GetTextAsync(Stream audioStream, String filename, String language, String prompt, Nullable`1 temperature)
+   at OpenAI_API.Audio.TranscriptionEndpoint.GetTextAsync(String audioFilePath, String language, String prompt, Nullable`1 temperature)
+   at OpenAI.DBManager.OpenAITurboManager.<getNote>d__5.MoveNext()
+14:59:44 - Unable to read data from the transport connection: An established connection was aborted by the software in your host machine..
+   at System.Net.Security.SslStream.EnsureFullTlsFrameAsync[TIOAdapter](CancellationToken cancellationToken)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.ReceiveBlobAsync[TIOAdapter](CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Http.ConnectHelper.EstablishSslConnectionAsync(SslClientAuthenticationOptions sslOptions, HttpRequestMessage request, Boolean async, Stream stream, CancellationToken cancellationToken)
+14:59:44 - Error generating the note.
+   at OpenAI.DBManager.OpenAITurboManager.<getNote>d__5.MoveNext()
+   at OpenAI.DBManager.OpenAITurboManager.GetAIClinicalNote(RequestModel request)
+14:59:44 - The SSL connection could not be established, see inner exception.
+   at System.Net.Http.ConnectHelper.EstablishSslConnectionAsync(SslClientAuthenticationOptions sslOptions, HttpRequestMessage request, Boolean async, Stream stream, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.AddHttp11ConnectionAsync(QueueItem queueItem)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.HttpConnectionWaiter`1.WaitForConnectionAsync(Boolean async, CancellationToken requestCancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at OpenAI_API.EndpointBase.HttpRequestRaw(String url, HttpMethod verb, Object postData, Boolean streaming)
+   at OpenAI_API.EndpointBase.HttpGetContent(String url, HttpMethod verb, Object postData)
+   at OpenAI_API.Audio.TranscriptionEndpoint.GetAsFormatAsync(Stream audioStream, String filename, String responseFormat, String language, String prompt, Nullable`1 temperature)
+   at OpenAI_API.Audio.TranscriptionEndpoint.GetTextAsync(Stream audioStream, String filename, String language, String prompt, Nullable`1 temperature)
+   at OpenAI_API.Audio.TranscriptionEndpoint.GetTextAsync(String audioFilePath, String language, String prompt, Nullable`1 temperature)
+   at OpenAI.DBManager.OpenAITurboManager.<getNote>d__5.MoveNext()
+15:05:43 - API Started
+15:17:45 - API Started
+15:19:50 - API Started
+15:21:44 - API Started
+15:22:53 - API Started
+15:35:44 - API Started
+17:01:25 - API Started
+17:04:43 - API Started

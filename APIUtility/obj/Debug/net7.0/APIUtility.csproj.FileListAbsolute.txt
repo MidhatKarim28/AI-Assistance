@@ -42,14 +42,3 @@ C:\Users\support.mid\source\Workspaces\ClinicalNotesAPI\AIAssistance-APII\AIAssi
 C:\Users\support.mid\source\Workspaces\ClinicalNotesAPI\AIAssistance-APII\AIAssistanceAPI\APIUtility\obj\Debug\net7.0\refint\APIUtility.dll
 C:\Users\support.mid\source\Workspaces\ClinicalNotesAPI\AIAssistance-APII\AIAssistanceAPI\APIUtility\obj\Debug\net7.0\APIUtility.pdb
 C:\Users\support.mid\source\Workspaces\ClinicalNotesAPI\AIAssistance-APII\AIAssistanceAPI\APIUtility\obj\Debug\net7.0\ref\APIUtility.dll
-C:\Users\support.mid\source\FOR AI\AIAssistanceAPI\Assemblies\net7.0\APIUtility.deps.json
-C:\Users\support.mid\source\FOR AI\AIAssistanceAPI\Assemblies\net7.0\APIUtility.dll
-C:\Users\support.mid\source\FOR AI\AIAssistanceAPI\Assemblies\net7.0\APIUtility.pdb
-C:\Users\support.mid\source\FOR AI\AIAssistanceAPI\APIUtility\obj\Debug\net7.0\APIUtility.csproj.AssemblyReference.cache
-C:\Users\support.mid\source\FOR AI\AIAssistanceAPI\APIUtility\obj\Debug\net7.0\APIUtility.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\support.mid\source\FOR AI\AIAssistanceAPI\APIUtility\obj\Debug\net7.0\APIUtility.csproj.CoreCompileInputs.cache
-C:\Users\support.mid\source\FOR AI\AIAssistanceAPI\APIUtility\obj\Debug\net7.0\APIUtility.csproj.CopyComplete
-C:\Users\support.mid\source\FOR AI\AIAssistanceAPI\APIUtility\obj\Debug\net7.0\APIUtility.dll
-C:\Users\support.mid\source\FOR AI\AIAssistanceAPI\APIUtility\obj\Debug\net7.0\refint\APIUtility.dll
-C:\Users\support.mid\source\FOR AI\AIAssistanceAPI\APIUtility\obj\Debug\net7.0\APIUtility.pdb
-C:\Users\support.mid\source\FOR AI\AIAssistanceAPI\APIUtility\obj\Debug\net7.0\ref\APIUtility.dll
