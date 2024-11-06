@@ -15,7 +15,7 @@ builder.Services.AddCors(options =>
 {
     options.AddDefaultPolicy(builder =>
     {
-        builder.WithOrigins("http://localhost:3000") // Update this with your React app's URL
+        builder.WithOrigins("http://localhost:3000", "https://localhost:3000") // Update this with your React app's URL
                .AllowAnyMethod()
                .AllowAnyHeader()
                .AllowCredentials();

@@ -41,40 +41,49 @@ namespace AIAssistanceAPI.Controllers
             var receiveResult = await webSocket.ReceiveAsync(
                 new ArraySegment<byte>(buffer), CancellationToken.None);
 
-            using (var recognizer = new SpeechRecognitionEngine())
+            try
             {
-                recognizer.SetInputToDefaultAudioDevice();
-                recognizer.LoadGrammar(new DictationGrammar());
-
-                recognizer.SpeechRecognized += async (s, e) =>
+                using (var recognizer = new SpeechRecognitionEngine())
                 {
-                    var transcription = e.Result.Text;
-                    await webSocket.SendAsync(
-                        new ArraySegment<byte>(Encoding.UTF8.GetBytes(transcription)),
-                        WebSocketMessageType.Text,
-                        true,
-                        CancellationToken.None);
-                };
+                    recognizer.SetInputToDefaultAudioDevice();
+                    recognizer.LoadGrammar(new DictationGrammar());
 
-                recognizer.RecognizeAsync(RecognizeMode.Multiple);
+                    recognizer.SpeechRecognized += async (s, e) =>
+                    {
+                        var transcription = e.Result.Text;
+                        await webSocket.SendAsync(
+                            new ArraySegment<byte>(Encoding.UTF8.GetBytes(transcription)),
+                            WebSocketMessageType.Text,
+                            true,
+                            CancellationToken.None);
+                    };
 
-                while (!receiveResult.CloseStatus.HasValue)
-                {
-                    await webSocket.ReceiveAsync(
-                        new ArraySegment<byte>(buffer), CancellationToken.None);
+                    recognizer.RecognizeAsync(RecognizeMode.Multiple);
+
+                    while (!receiveResult.CloseStatus.HasValue)
+                    {
+                        await webSocket.ReceiveAsync(
+                            new ArraySegment<byte>(buffer), CancellationToken.None);
+                    }
+
+                    recognizer.RecognizeAsyncStop();
                 }
-
-                recognizer.RecognizeAsyncStop();
             }
-
-            await webSocket.CloseAsync(
-                receiveResult.CloseStatus.Value,
-                receiveResult.CloseStatusDescription,
-                CancellationToken.None);
+            catch (Exception ex)
+            {
+                _logger.LogError(ex, "Error in WebSocket communication");
+            }
+            finally
+            {
+                await webSocket.CloseAsync(
+                    receiveResult.CloseStatus.GetValueOrDefault(),
+                    receiveResult.CloseStatusDescription,
+                    CancellationToken.None);
+            }
         }
 
         [HttpPost("generate-notes")]
-        public async Task<IActionResult> GenerateNotes([FromBody] string transcription)
+        public async Task<IActionResult> GenerateNotes([FromBody] GenerateNotesRequest request)
         {
             try
             {
@@ -84,7 +93,7 @@ namespace AIAssistanceAPI.Controllers
                     Messages = new[]
                     {
                         new OpenAI_API.Chat.ChatMessage(OpenAI_API.Chat.ChatMessageRole.System, "You are a medical professional. Summarize the following conversation into clinical notes."),
-                        new OpenAI_API.Chat.ChatMessage(OpenAI_API.Chat.ChatMessageRole.User, transcription)
+                        new OpenAI_API.Chat.ChatMessage(OpenAI_API.Chat.ChatMessageRole.User, request.Transcription)
                     }
                 };
 
@@ -97,5 +106,11 @@ namespace AIAssistanceAPI.Controllers
                 return StatusCode(500, "An error occurred while generating clinical notes");
             }
         }
+    }
+
+    public class GenerateNotesRequest
+    {
+        public string Transcription { get; set; }
+        public string PatientContext { get; set; }
     }
 }
